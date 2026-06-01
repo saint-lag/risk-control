@@ -1,4 +1,0 @@
-"""
-Utilitários compartilhados do pipeline.
-"""
-

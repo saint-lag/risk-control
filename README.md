@@ -11,11 +11,9 @@ Fontes permitidas (gratuitas):
 - Alpha Vantage (https://www.alphavantage.co/)
 - Investing.com via Web Scraping com investpy
 
-Dica: Para ações da B3 no Yahoo Finance, o ticker precisa ser seguido de .SA, ex:
-PETR4.SA.
 
 ## Cálculo de Indicadores de Risco
-Com os dados coletados, implemente os seguintes indicadores:
+Os seguintes indicadores:
 - Volatilidade histórica anualizada (com base em retornos diários)
 - Valor em Risco (VaR) paramétrico a 95% (pressuponha distribuição
 normal)
@@ -25,7 +23,7 @@ Fórmulas devem ser corretamente implementadas. Pode-se usar bibliotecas
 como pandas, numpy, scipy e ou similares.
 
 ## Apresentação e Visualização
-Crie uma visualização interativa ou um relatório claro com:
+Visualização interativa ou um relatório claro com:
 -  Série histórica dos preços
 -  Retornos diários
 -  Indicadores calculados
